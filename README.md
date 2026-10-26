@@ -21,5 +21,5 @@ This repository contains my Machine Learning practical exercises at Pentecost Un
 
 ## Author
 Moses Manyina Lijenl
-Bachelor of Information Technology
-Pentecost University, Ghana
+BSc. Information Technology
+Pentecost University.
